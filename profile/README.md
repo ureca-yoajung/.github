@@ -7,3 +7,6 @@
 
 ## ERD
 ![erd](https://github.com/user-attachments/assets/a388cca8-f158-41a0-b4b8-332b65561389)
+
+## 기술스택
+![tech](https://github.com/user-attachments/assets/f84620a0-710a-4257-b095-36e1c2d7c688)
